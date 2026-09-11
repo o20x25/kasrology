@@ -1,0 +1,8 @@
+{
+  "name": "KASROLOGY",
+  "description": "A custom LMS and question bank platform for university students, featuring study/mock modes, anti-screenshot protection, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
